@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://khushal-ingle.github.io/csb-wn2pdo/static/css/main.f27252ce.chunk.css",
+    "main.js": "https://khushal-ingle.github.io/csb-wn2pdo/static/js/main.15266fe1.chunk.js",
+    "main.js.map": "https://khushal-ingle.github.io/csb-wn2pdo/static/js/main.15266fe1.chunk.js.map",
+    "runtime-main.js": "https://khushal-ingle.github.io/csb-wn2pdo/static/js/runtime-main.3038ceb5.js",
+    "runtime-main.js.map": "https://khushal-ingle.github.io/csb-wn2pdo/static/js/runtime-main.3038ceb5.js.map",
+    "static/js/2.761174bd.chunk.js": "https://khushal-ingle.github.io/csb-wn2pdo/static/js/2.761174bd.chunk.js",
+    "static/js/2.761174bd.chunk.js.map": "https://khushal-ingle.github.io/csb-wn2pdo/static/js/2.761174bd.chunk.js.map",
+    "index.html": "https://khushal-ingle.github.io/csb-wn2pdo/index.html",
+    "static/css/main.f27252ce.chunk.css.map": "https://khushal-ingle.github.io/csb-wn2pdo/static/css/main.f27252ce.chunk.css.map",
+    "static/js/2.761174bd.chunk.js.LICENSE.txt": "https://khushal-ingle.github.io/csb-wn2pdo/static/js/2.761174bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3038ceb5.js",
+    "static/js/2.761174bd.chunk.js",
+    "static/css/main.f27252ce.chunk.css",
+    "static/js/main.15266fe1.chunk.js"
+  ]
+}
